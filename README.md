@@ -28,3 +28,7 @@
    ```
 2. Установите переменную окружения с вашим GigaChat API ключом:
 3. Запустите ноутбук `gigachat_api_review.ipynb` в Jupyter/Colab.
+
+## Связанные проекты
+
+- [Gigachat Streamlit Demo App](https://github.com/QSquirreld/Gigachat-Streamlit-Demo-App) — демо приложение на Streamlit для взаимодействия с GigaChat API.
